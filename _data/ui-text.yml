@@ -2022,9 +2022,9 @@ sw-TZ:
 # Ukrainian / Українська
 # -----------------
 uk: &DEFAULT_UK
-  skip_links                 : "Посилання для переходу"
+  skip_links                 : "Посилання переходу"
   skip_primary_nav           : "Перейти до основної навігації"
-  skip_content               : "Перейти до змісту"
+  skip_content               : "Перейти до вмісту"
   skip_footer                : "Перейти до нижнього колонтитула"
   page                       : "Сторінка"
   pagination_previous        : "Попередня"
@@ -2036,12 +2036,12 @@ uk: &DEFAULT_UK
   toc_label                  : "Зміст"
   ext_link_label             : "Пряме посилання"
   less_than                  : "менше ніж"
-  minute_read                : "хв. на чітання"
+  minute_read                : "хв. на прочитання"
   share_on_label             : "Поділитися"
   meta_label                 :
   tags_label                 : "Мітки:"
   categories_label           : "Розділи:"
-  date_label                 : "Дата зміни:"
+  date_label                 : "Змінено:"
   comments_label             : "Залишити коментар"
   comments_title             : "Коментарі"
   more_label                 : "Читати далі"
