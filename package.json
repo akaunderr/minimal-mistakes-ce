@@ -2,7 +2,7 @@
   "name": "minimal-mistakes-ce",
   "private": true,
   "version": "1.0.0",
-  "description": "For of Minimal Mistakes Jekyll theme.",
+  "description": "Fork of Minimal Mistakes Jekyll theme.",
   "repository": {
     "type": "git",
     "url": "git://github.com/underr-ua/minimal-mistakes-ce.git"
